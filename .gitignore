@@ -3,3 +3,5 @@ Screenshots/
 data/trips_history.jsonl
 .ipynb_checkpoints/
 "@ | Set-Content -Encoding ascii .gitignore
+Rapport_Pedali_Jalon1.docx
+Rapport_Pedali_Jalon1.pdf
